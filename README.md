@@ -19,3 +19,4 @@ Yii框架学习Demo 文章管理系统
         ......
     把&lt;&lt;DB_host&gt;&gt; &lt;&lt;DB_name&gt;&gt; &lt;&lt;DB_username&gt;&gt; &lt;&lt;DB_password&gt;&gt;
     替换为您的数据库配置。
+* 修改 `assets` `protected/runtime` 两个目录为可写权限(Windows环境无需修改)
