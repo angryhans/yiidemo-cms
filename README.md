@@ -6,7 +6,7 @@ Yii框架学习Demo 文章管理系统
 
 ##如何使用？
 * 拷贝`evironment/config`目录下的配置文件`main.php`到`protected/config`目录
-* 创建您的本地数据库，导入数据库文件`environment/cms.sql`
+* 创建您的本地数据库，导入数据库文件`environment/data/cms.sql`
 * 打开配置文件`protected/config/main.php`,找到
         ......
         db=>array(
