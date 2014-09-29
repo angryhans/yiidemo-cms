@@ -1,2 +1,4 @@
 /nbproject
 /protected/config/main.php
+/assets/*
+/protected/runtime/*
